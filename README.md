@@ -35,12 +35,15 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: Jothilakshmi 
+
+RegisterNumber: 212223110017
 
 
 **RTL realization**
 
 **Output:**
+![WhatsApp Image 2024-03-15 at 09 12 15_9e134569](https://github.com/Jothilakshmi12/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849182/17aa3d5c-c8db-47dc-9f95-acb7c9914238)
 
 **RTL**
 
